@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\pages",
-    "\\src\\app\\pages\\questionnaire-page"
+    "\\src\\app\\pages\\recommend",
+    "\\src\\app\\pages\\tracker-page"
   ],
-  "SelectedNode": "\\src\\app\\pages\\questionnaire-page\\questionnaire-page.component.html",
+  "SelectedNode": "\\src\\app\\pages\\recommend\\recommend.component.html",
   "PreviewInSolutionExplorer": false
 }
